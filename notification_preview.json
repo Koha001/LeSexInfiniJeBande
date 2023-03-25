@@ -1,0 +1,15 @@
+{
+    "AppPush": [
+    ],
+    "RegionPush": [
+        {
+            "MsgId": 5000015,
+            "IsDisposable": true,
+            "Severity": "Warning",
+            "RegionProfile": "GIGlb",
+            "Title": "[EN] TITLE",
+            "Message": "MESSAGE",
+            "Show": true
+        }
+    ]
+}
