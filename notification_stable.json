@@ -8,7 +8,16 @@
             "Severity": "Warning",
             "RegionProfile": "GIGlb",
             "Title": "[FR] BIENVENUE SUR LA VERSION V4.0 DE COSMOS! ☺️",
-            "Message": "\nDes problèmes d'installations sont connus! Une correction sera publié jeudi 30 Mars à 15h00 !",
+            "Message": "",
+            "Show": true
+        },
+        {
+            "MsgId": 5000016,
+            "IsDisposable": false,
+            "Severity": "Error",
+            "RegionProfile": "GIGlb",
+            "Title": "[FR] ERREURS D'INSTALLATION DE LA SAISON 8",
+            "Message": "Des problèmes d'installations sont connus!\nUn correctif sera publié aujourd'hui vers 15h00 jetez un coup d'oeil sur le salon discord pour plus d'infos !",
             "Show": true
         }
     ]
