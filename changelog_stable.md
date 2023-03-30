@@ -1,5 +1,5 @@
 # Mise à jour de correction du Lanceur
-⚠ IMPORTANT: La mise à jour depuis le lanceur est bugger! Télécharger le nouveau Lanceur depuis un des liens ci-dessous.
+⚠ IMPORTANT: La mise à jour depuis le lanceur est bugger! Télécharger le nouveau Lanceur Cosmos depuis un des liens ci-dessous.
 
 ⚠ IMPORTANT: Updating from Cosmos Launcher is buggy! Download it from one of the links below.
 
