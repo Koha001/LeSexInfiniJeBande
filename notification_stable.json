@@ -18,7 +18,7 @@
             "RegionProfile": "GIGlb",
             "Title": "[FR] ERREURS D'INSTALLATIONS DE LA SAISON 8",
             "Message": "Les problèmes d'installations sont connus et en cours de résolutions!\nUn correctif sera publié aujourd'hui vers 15h00, jeter un coup d'oeil sur le salon discord (#annonces-multijoueur) pour plus d'infos !",
-            "Show": true
+            "Show": false
         }
     ]
 }
