@@ -1,4 +1,4 @@
-# Saison 8 Disponible
+# Mise à jour de correction du Lanceur
 # FR:
 - Correction des bugs d'installations.
 - Correction de crash dans le salon.
