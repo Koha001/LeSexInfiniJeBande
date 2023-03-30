@@ -3,8 +3,9 @@
 
 ⚠ IMPORTANT: Updating from Cosmos Launcher is buggy! Download it from one of the links below.
 
-[Lien 1 - pour télécharger la nouvelle mise à jour](https://cosmos-download.pristis.fr/telechargement/pc/windows/launcher/CosmosInstallerV4.01.msi)
-[Lien 2 - pour télécharger la nouvelle mise à jour](https://mega.nz/file/iREUjALD#j0HcXO7JGtFpX-1eDP00HzBdtHLm0bEtWNNzP80llng)
+[Lien 1 (Serveur Cosmos) - pour télécharger la nouvelle mise à jour](https://cosmos-download.pristis.fr/telechargement/pc/windows/launcher/CosmosInstallerV4.01.msi)
+
+[Lien 2 (Server Mega.nz) - pour télécharger la nouvelle mise à jour](https://mega.nz/file/iREUjALD#j0HcXO7JGtFpX-1eDP00HzBdtHLm0bEtWNNzP80llng)
 # FR:
 - Correction des bugs d'installations.
 - Correction de crash dans le salon Fortnite.
