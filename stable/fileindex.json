@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.55.6",
+  "time": 1680177600,
+  "f": [  
+    {
+      "p": "CosmosApp.deps.json",
+      "crc": "4676F3E2B620AFD0B80AB2056982AD9A",
+      "s": 27285
+    },
+    {
+      "p": "CosmosApp.dll",
+      "crc": "52AE46623B2370E848D6188D19EE9342",
+      "s": 1039360
+    },
+    {
+      "p": "CosmosApp.exe",
+      "crc": "473688607732972ED6154411A1F834A1",
+      "s": 394752
+    },
+    {
+      "p": "Lang/en.json",
+      "crc": "226D670CE9D1908533E034D59A0CBAA0",
+      "s": 33933
+    },
+    {
+      "p": "Lang/fr-fr.json",
+      "crc": "F0D56E7A4ABF46155BA080C0721348D0",
+      "s": 34201
+    },
+    {
+      "p": "Lang/pt-br.json",
+      "crc": "79E1B295D103EDE8BE9FA7A047967DA8",
+      "s": 36344
+    },
+    "p": "Lang/de-de.json",
+      "crc": "59C07DE8A6A99E147FAC840E2CE7BF6D",
+      "s": 34912
+    },
+   }
+}
