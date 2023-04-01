@@ -7,9 +7,6 @@
 
 [Lien 2 (Server Mega.nz) - pour télécharger la nouvelle mise à jour](https://mega.nz/file/iREUjALD#j0HcXO7JGtFpX-1eDP00HzBdtHLm0bEtWNNzP80llng)
 
-# CA NE SERT A RIEN DE FAIRE LA MISE A JOUR DEPUIS LE LANCEUR REGARDE BIEN LE MESSAGE EN HAUT!!!!!
-
-
 # FR:
 - Correction des bugs d'installations.
 - Correction de crash dans le salon Fortnite.
