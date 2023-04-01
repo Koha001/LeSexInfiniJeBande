@@ -2,6 +2,11 @@
   "ver": "1.0.55.8",
   "time": 1680177600,
   "f": [
+     {
+      "p": "CosmosApp.deps",
+      "crc": "A3BC22544F98810BD2D7E30E01F57239",
+      "s": 27285
+    },
     {
       "p": "ApplyUpdate.exe",
       "crc": "E4F0234AA046AFA6616E5FDD902DD490",
