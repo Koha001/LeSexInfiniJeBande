@@ -9,9 +9,9 @@
 
 # FR:
 - Correction des bugs d'installations.
--  Correction des erreurs de connexion à Fortnite.
+- Correction des erreurs de connexion à Fortnite.
 # EN:
-- Fixed installations errors.
-- Fixed crash on Fortnite lobby.
+- Fixed installation bugs.
+- Fixed Fortnite connection errors.
 
 ![FqzjjkqXgAIbNsB](https://user-images.githubusercontent.com/67761696/224813550-b5470ba5-eb47-4ab0-a3a7-15bfbeb67148.jpg)
