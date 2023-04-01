@@ -334,7 +334,7 @@
 
   "_Misc": {
     "UpdateCompleteTitle": "Mise à jour Terminé !",
-    "UpdateCompleteSubtitle": "Your launcher version has been updated to {0}! (Release Channel: {1})",
+    "UpdateCompleteSubtitle": "La version de Cosmos Lanceur a été mise à jour pour {0}! (Release Channel: {1})",
     "FeatureUnavailableTitle": "Cette fonctionnalité n'est pas disponible pour le moment",
     "FeatureUnavailableSubtitle": "Veuillez revenir plus tard !",
     "TimeRemain": "Temps Restant",

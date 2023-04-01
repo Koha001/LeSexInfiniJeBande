@@ -1,7 +1,12 @@
 {
-  "ver": "1.0.55.6",
+  "ver": "1.0.55.8",
   "time": 1680177600,
   "f": [
+     {
+      "p": "CosmosApp.runtimeconfig.json",
+      "crc": "C3BC22544F98810BD2D7E30E01F57239",
+      "s": 340
+    },
     {
       "p": "CosmosApp.deps.json",
       "crc": "4676F3E2B620AFD0B80AB2056982AD9A",
