@@ -617,6 +617,6 @@
 
     "NotifPreviewBuildUsedTitle": "You are using a Preview Build!",
     "NotifPreviewBuildUsedSubtitle": "You are currently using a PREVIEW build which is still being tested. If you encounter any issues, please report them by using the \"{0}\" button below. Thanks!",
-    "NotifPreviewBuildUsedBtn": "
+    "NotifPreviewBuildUsedBtn": ""
   }
 }
