@@ -31,6 +31,26 @@
       "p": "CosmosApp.exe",
       "crc": "473688607732972ED6154411A1F834A1",
       "s": 398848
+    },
+    {
+      "p": "Lang/en.json",
+      "crc": "226D670CE9D1908533E034D59A0CBAA0",
+      "s": 31730
+    },
+    {
+      "p": "Lang/fr-fr.json",
+      "crc": "F0D56E7A4ABF46155BA080C0721348D0",
+      "s": 32318
+    },
+    {
+      "p": "Lang/pt-br.json",
+      "crc": "79E1B295D103EDE8BE9FA7A047967DA8",
+      "s": 34840
+    },
+    {
+      "p": "Lang/de-de.json",
+      "crc": "59C07DE8A6A99E147FAC840E2CE7BF6D",
+      "s": 29285
     }
   ]
 }

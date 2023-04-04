@@ -334,7 +334,7 @@
 
   "_Misc": {
     "UpdateCompleteTitle": "Mise à jour Terminé !",
-    "UpdateCompleteSubtitle": "La version de Cosmos Lanceur a été mise à jour pour {0}! (Release Channel: {1})",
+    "UpdateCompleteSubtitle": "La version de Cosmos a été mise à jour pour {0}! (Release Channel: {1})",
     "FeatureUnavailableTitle": "Cette fonctionnalité n'est pas disponible pour le moment",
     "FeatureUnavailableSubtitle": "Veuillez revenir plus tard !",
     "TimeRemain": "Temps Restant",
@@ -606,17 +606,17 @@
   },
 
   "_AppNotification": {
-    "NotifMetadataUpdateTitle": "Launcher Metadata Update is Available!",
-    "NotifMetadataUpdateSubtitle": "New metadata for the launcher is available! We recommend you to proceed with installing the update in order to ensure that the launcher can communicate with the miHoYo/HoYoverse servers. Click on \"Update Metadata\" to update.",
-    "NotifMetadataUpdateBtn": "Update Metadata",
-    "NotifMetadataUpdateBtnUpdating": "Updating Metadata, please wait...",
+    "NotifMetadataUpdateTitle": "Une nouvelle mise à jour du lanceur est disponible!",
+    "NotifMetadataUpdateSubtitle": "Nous vous recommandons de télécharger la mise à jour pour communiquer avec les serveurs Cosmos ou vous pourrez subir des erreurs de connexion. Cliquer sur \"Mettre à jour le lanceur\" .",
+    "NotifMetadataUpdateBtn": "Mettre à jour le lanceur",
+    "NotifMetadataUpdateBtnUpdating": "Mise à jour des métadonnées, veuillez patienter...",
 
     "NotifFirstWelcomeTitle": "Bienvenue sur Cosmos",
     "NotifFirstWelcomeSubtitle": "To get started, click \"{0}\" button below to see how to install or migrate an existing game.",
-    "NotifFirstWelcomeBtn": "Visit GitHub Wiki",
+    "NotifFirstWelcomeBtn": "",
 
     "NotifPreviewBuildUsedTitle": "You are using a Preview Build!",
     "NotifPreviewBuildUsedSubtitle": "You are currently using a PREVIEW build which is still being tested. If you encounter any issues, please report them by using the \"{0}\" button below. Thanks!",
-    "NotifPreviewBuildUsedBtn": "Submit an Issue"
+    "NotifPreviewBuildUsedBtn": "
   }
 }

@@ -597,10 +597,10 @@
   },
 
   "_AppNotification": {
-    "NotifMetadataUpdateTitle": "Launcher Metadata Update is Available!",
-    "NotifMetadataUpdateSubtitle": "New metadata for the launcher is available! We recommend you to proceed with installing the update in order to ensure that the launcher can communicate with the miHoYo/HoYoverse servers. Click on \"Update Metadata\" to update.",
-    "NotifMetadataUpdateBtn": "Update Metadata",
-    "NotifMetadataUpdateBtnUpdating": "Updating Metadata, please wait...",
+    "NotifMetadataUpdateTitle": "Ein neues Launcher-Update ist verfügbar!",
+    "NotifMetadataUpdateSubtitle": "Wir empfehlen Ihnen, das Update herunterzuladen, um mit Cosmos-Servern zu kommunizieren, da sonst Verbindungsfehler auftreten können. Klicken Sie auf \"Update Metadata\" .",
+    "NotifMetadataUpdateBtn": "Launcher aktualisieren",
+    "NotifMetadataUpdateBtnUpdating": "Metadaten werden aktualisiert, bitte warten...",
 
     "NotifFirstWelcomeTitle": "Welcome to Cosmos!",
     "NotifFirstWelcomeSubtitle": "To get started, click \"{0}\" button below to see how to install or migrate an existing game.",
@@ -608,6 +608,6 @@
 
     "NotifPreviewBuildUsedTitle": "You are using a Preview Build!",
     "NotifPreviewBuildUsedSubtitle": "You are currently using a PREVIEW build which is still being tested. If you encounter any issues, please report them by using the \"{0}\" button below. Thanks!",
-    "NotifPreviewBuildUsedBtn": "Submit an Issue"
+    "NotifPreviewBuildUsedBtn": ""
   }
 }

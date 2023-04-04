@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "CosmosApp/1.0.55.8": {
+      "CosmosApp/1.0.55.9": {
         "dependencies": {
           "ColorThief": "1.0.0",
           "CommunityToolkit.WinUI.UI": "7.1.2",
@@ -453,7 +453,7 @@
     }
   },
   "libraries": {
-    "CosmosApp/1.0.55.8": {
+    "CosmosApp/1.0.55.9": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

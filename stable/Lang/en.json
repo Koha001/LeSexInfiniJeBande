@@ -409,7 +409,7 @@
 
   "_Dialogs": {
      "FolderNotAllowedTitle": "Folder Not Allowed !",
-     "FolderNotAllowedSubtitle": "FolderNotAllowedSubtitle": "Please create a subfolder named eg FortniteSeason or other...\n1) Right click\n2) Create a new folder and Select it.\n\nYou cannot select your hard drive!",
+     "FolderNotAllowedSubtitle": "Please create a subfolder named eg FortniteSeason or other...\n1) Right click\n2) Create a new folder and Select it.\n\nYou cannot select your hard drive!",
      "NeedReInstallTitle": "One of the game files is corrupt.",
      "NeedReInstallSubtitle1": "Due to an installation error Cosmos will automatically uninstall this season, please reinstall it and do not modify or delete any game files.",
      "SeasonWrongTitle": "Installation error.",
@@ -605,7 +605,7 @@
 
   "_AppNotification": {
     "NotifMetadataUpdateTitle": "Launcher Metadata Update is Available!",
-    "NotifMetadataUpdateSubtitle": "New metadata for the launcher is available! We recommend you to proceed with installing the update in order to ensure that the launcher can communicate with the miHoYo/HoYoverse servers. Click on \"Update Metadata\" to update.",
+    "NotifMetadataUpdateSubtitle": "New metadata for the launcher is available! We recommend you to proceed with installing the update in order to ensure that the launcher can communicate with the Cosmos servers or you may get connection errors. Click on \"Update Metadata\" to update.",
     "NotifMetadataUpdateBtn": "Update Metadata",
     "NotifMetadataUpdateBtnUpdating": "Updating Metadata, please wait...",
 
