@@ -7,9 +7,9 @@
 
 [Lien 2 (Server Mega.nz) - pour télécharger la nouvelle mise à jour](https://mega.nz/file/6QV1jKjT#KC0-jT2dkQJcxBeRKiqOS8T4NBxsqpVBehbKnNfENxM)
 
-# LIEN DE LA MISE A JOUR DEPUIS EN-HAUT! DESINSTALLER CETTE VERSION POUR POUVOIR INSTALLER LA NOUVELLE
+# LIEN DE LA MISE A JOUR EN-HAUT! DESINSTALLER CETTE VERSION POUR POUVOIR INSTALLER LA NOUVELLE
 
 # FR:
-- Corrections des dernier bugs
+- Corrections des dernier bugs.
 # EN:
 - Fixed last bugs.
