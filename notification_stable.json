@@ -21,7 +21,7 @@
             "Show": true
         },
         {
-            "MsgId": 5000017
+            "MsgId": 5000017,
             "IsDisposable": false,
             "Severity": "Error",
             "RegionProfile": "GIGlb",
