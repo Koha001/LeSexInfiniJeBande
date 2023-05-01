@@ -12,7 +12,7 @@
             "Show": false
         },
         {
-            "MsgId": 5000016
+            "MsgId": 5000016,
             "IsDisposable": true,
             "Severity": "Warning",
             "RegionProfile": "GIGlb",
