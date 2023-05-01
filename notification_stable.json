@@ -9,10 +9,19 @@
             "RegionProfile": "GIGlb",
             "Title": "BIENVENUE SUR LA VERSION V4.0 DE COSMOS! ☺️",
             "Message": "Les parties seront disponible dès le vendredi 21 Avril!\nGames will be available from Friday, April 21!",
+            "Show": false
+        },
+           {
+            "MsgId": 5000016
+            "IsDisposable": true,
+            "Severity": "Warning",
+            "RegionProfile": "GIGlb",
+            "Title": "Cosmos sur Twitter !"
+            "Message": "Suivez Cosmos sur Twtter dès maintenant @Cosmos_FR_\nFollow Cosmos on Twitter now @Cosmos_FR_"
             "Show": true
         },
         {
-            "MsgId": 5000016,
+            "MsgId": 5000017
             "IsDisposable": false,
             "Severity": "Error",
             "RegionProfile": "GIGlb",
