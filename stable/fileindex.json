@@ -1,7 +1,91 @@
 {
-  "ver": "1.0.55.9",
-  "time": 1680641863,
+  "ver": "1.0.56.1",
+  "time": 1683822521,
   "f": [
-   
+    {
+      "p": "Hi3Helper.Core.dll",
+      "crc": "ND3BC22544F98810BD2D7E30E01F57239",
+      "s": 1149952
+    },
+    {
+      "p": "Hi3Helper.EncTool.dll",
+      "crc": "FR3BC22544F98810BD2D7E30E01F57239",
+      "s": 9728
+    },
+    {
+      "p": "Hi3Helper.Http.dll",
+      "crc": "GH3BC22544F98810BD2D7E30E01F57239",
+      "s": 31744
+    },
+    {
+      "p": "Crc32.NET.dll",
+      "crc": "CB3BC22544F98810BD2D7E30E01F57239",
+      "s": 7680
+    },
+    {
+      "p": "marshal.dll",
+      "crc": "CB3BC22544F98810BD2D7E30E01F57235",
+      "s": 567232
+    },
+    {
+      "p": "CoreMessagingXP.dll",
+      "crc": "XA3BC22544F98810BD2D7E30E01F57235",
+      "s": 1058720
+    },
+    {
+      "p": "dcompi.dll",
+      "crc": "XA3BC22544F98810BD2D7E30E01F57235",
+      "s": 1918880
+    },
+    {
+      "p": "DWriteCore.dll",
+      "crc": "AD3BC22544F98810BD2D7E30E01F57235",
+      "s": 2910608
+    },
+    {
+      "p": "CosmosApp.deps.json",
+      "crc": "DA3BC22544F98810BD2D7E30E01F57239",
+      "s": 27934
+    },
+    {
+      "p": "ApplyUpdate.exe",
+      "crc": "E4F0234AA046AFA6616E5FDD902DD490",
+      "s": 6656
+    },
+    {
+      "p": "CosmosApp.runtimeconfig.json",
+      "crc": "C3BC22544F98810BD2D7E30E01F57239",
+      "s": 340
+    },
+    {
+      "p": "CosmosApp.dll",
+      "crc": "52AE46623B2370E848D6188D19EE9342",
+      "s": 1045504
+    },
+    {
+      "p": "CosmosApp.exe",
+      "crc": "473688607732972ED6154411A1F834A1",
+      "s": 398848
+    },
+    {
+      "p": "Lang/en.json",
+      "crc": "226D670CE9D1908533E034D59A0CBAA0",
+      "s": 34328
+    },
+    {
+      "p": "Lang/fr-fr.json",
+      "crc": "F0D56E7A4ABF46155BA080C0721348D0",
+      "s": 34742
+    },
+    {
+      "p": "Lang/pt-br.json",
+      "crc": "79E1B295D103EDE8BE9 aFA7A047967DA8",
+      "s": 36650
+    },
+    {
+      "p": "Lang/de-de.json",
+      "crc": "59C07DE8A6A99E147FAC840E2CE7BF6D",
+      "s": 35631
+    }
   ]
 }
