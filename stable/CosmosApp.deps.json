@@ -6,8 +6,9 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "CosmosApp/1.0.55.9": {
+      "CosmosApp/1.0.56.1": {
         "dependencies": {
+          "CloudProxySharp": "1.0.2",
           "ColorThief": "1.0.0",
           "CommunityToolkit.WinUI.UI": "7.1.2",
           "CommunityToolkit.WinUI.UI.Controls": "7.1.2",
@@ -32,6 +33,17 @@
           "Microsoft.Windows.SDK.NET.dll": {
             "assemblyVersion": "10.0.19041.24",
             "fileVersion": "10.0.19041.27"
+          }
+        }
+      },
+      "CloudProxySharp/1.0.2": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "lib/netstandard1.3/CloudProxySharp.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
           }
         }
       },
@@ -453,7 +465,7 @@
     }
   },
   "libraries": {
-    "CosmosApp/1.0.55.9": {
+    "CosmosApp/1.0.56.1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -462,6 +474,13 @@
       "type": "runtimepack",
       "serviceable": false,
       "sha512": ""
+    },
+    "CloudProxySharp/1.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5tx3jdh182DtykpeBVc2EBprl8y/Xxe1f3259pgClJUBHmS2UMhgsv7qst1eGu+7vvbwdX72MK7Tz/QoJUs4fQ==",
+      "path": "cloudproxysharp/1.0.2",
+      "hashPath": "cloudproxysharp.1.0.2.nupkg.sha512"
     },
     "ColorCode.Core/2.0.13": {
       "type": "package",
