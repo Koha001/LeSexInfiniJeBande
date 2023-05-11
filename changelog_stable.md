@@ -1,3 +1,3 @@
 # Update Launcher
 
-- Fixed a lot of bugs daam
+- Fixed a lot of bugs
