@@ -51,7 +51,7 @@
     "Pg2Subtitle2_3": "avec un système de progression et communautaire. S'il vous plait, veuillez indiquer vos informations de connexion Cosmos.",
     "Pg2Subtitle2_4": "Si vous en avez pas, vous pouvez créer votre compte sur notre Discord Cosmos🌌 sur le salon Register.",
     "Pg2ComboBox": "Select Game",
-    "Pg2ComboBoxRegion": "Select Region"
+    "Pg2ComboBoxRegion": "Select Season"
   },
 
   "_DisconnectedPage": {
@@ -59,9 +59,9 @@
     "Header1": "You are currently",
     "Header2": "Disconnected from the Internet.",
     "Footer1": "Please check your internet connection and click",
-    "Footer2": "Paimon",
+    "Footer2": "Grosse potion",
     "Footer3": "to Retry.",
-    "ShowErrorBtn": "Show Error Message"
+    "ShowErrorBtn": "Montrer le message d'Erreur"
   },
 
   "_UnhandledExceptionPage": {
@@ -313,6 +313,7 @@
     "AppFiles_RelocateDataFolderBtn": "Relocate App Data Folder",
     "AppFiles_ClearLogBtn": "Clear Log Files",
     "AppFiles_ClearImgCachesBtn": "Clear Image Files",
+    "DisconnectBtn": "Se déconnecter de Mon Compte Cosmos",
 
     "ReportIssueBtn": "",
     "ContributePRBtn": "",
@@ -355,11 +356,11 @@
     "OkaySad": "D'accord ;-;)",
     "OkayHappy": "D'accord  (≧▽≦)ﾉ",
     "OkayBackToMenu": "D'accord, retour au menu",
-    "Skip": "Skip",
+    "Skip": "Plus tard",
     "Next": "Suivant",
     "Prev": "Previous",
     "Uninstall": "Uninstall",
-    "Install": "Install",
+    "Install": "Installer",
 
     "Yes": "Oui",
     "YesRedownload": "Oui, Retélécharger",
@@ -408,6 +409,8 @@
   },
 
   "_Dialogs": {
+    "NeedDisableItTitle": "Logiciel manquant pour démarrer Fortnite.",
+    "NeedDisableItle1": "Du à une erreur d'installation Fortnite ne peut pas démarrer correctement.\n1) Essayer de désactiver votre Anti-Virus\n2) Essayer de désactiver votre VPN (si vous en avez)\n\nPuis relancer le Lanceur Cosmos!",
     "FolderNotAllowedTitle": "Dossier interdit !",
     "FolderNotAllowedSubtitle": "Veuillez créer un sous-dossier nommé par exemple FortniteSaison ou autre...\n1) Clique droit\n2) Créer un nouveau dossier et Sélectionner-le.\n\nVous ne pouvez pas sélectionner votre disque dur!",
     "NeedReInstallTitle": "Un des fichiers du jeu est corrompu.",
@@ -468,14 +471,16 @@
     "UninstallGameSubtitle": "Vous êtes sur le point de désinstaller le jeu situé ici:\r\n\r\n{0}\r\n\r\nProcéder 😢?",
     "MigrationTitle": "Locating Target Folder",
     "MigrationSubtitle": "Before migrating, do you want to specify the location of the game?",
-    "NeedInstallMediaPackTitle": "Media Feature Pack can't be found!",
-    "NeedInstallMediaPackSubtitle1": "WARNING: Starting from v5.8 update, Honkai Impact 3 needs \"Media Feature Pack\" to be installed on your PC to run. This will fix \"Unable to load DLL 'cri_ware_unity'\" error in-game.\r\n\r\n",
-    "NeedInstallMediaPackSubtitle2": "You may need to restart your PC after you've installed the Media Feature Pack. You can ignore this warning, but there is a chance that you will get \"Unable to load DLL 'cri_ware_unity'\" error while running the game.",
-    "InstallMediaPackCompleteTitle": "Media Feature Pack has been installed!",
-    "InstallMediaPackCompleteSubtitle": "Media Feature Pack has been installed on your PC.\r\nPlease restart your PC to apply!",
-    "InstallingMediaPackTitle": "Installing Media Feature Pack",
-    "InstallingMediaPackSubtitle": "Waiting until installation is complete...",
-    "InstallingMediaPackSubtitleFinished": "Finished",
+    "NeedInstallMediaPackTitle": "VC_redistx64 n'a pas était trouvé!",
+    "NeedInstallMediaPackSubtitle1": "AVERTISSEMENT: Cosmos a besoin de \"VC_redistx64\" pour le bien fonctionnement de la connexion au serveur. Cela corrigera \"Connexion impossible aux serveurs de fortnite\" en-jeu.\r\n\r\n",
+    "NeedInstallMediaPackSubtitle2": "Vous devrez peut-être redémarrer votre PC après avoir installé VC_redistx64.\n\nNote: vc_redistx64 n'est pas obigatoire, vous devez simplement l'installer si vous rencontrez cette erreur.",
+    "InstallMediaPackCompleteTitle": "VC_redistx64 has been installed!",
+    "InstallMediaPackCompleteSubtitle": "VC_redistx64 has been installed on your PC.\r\nPlease restart your PC to apply!",
+    "InstallingMediaPackTitle": "Installation de vc_redistx64",
+    "InstallingMediaPackSubtitle": "En attente que l'installation soit terminée...",
+    "UpdatePakTitle": "Mise à jour de Fortnite",
+    "UpdatePakSubtitle": "En attente que l'installation soit terminée (cela peut prendre jusqu'à 5 mintues selon votre connexion internet)...",
+    "InstallingMediaPackSubtitleFinished": "Terminé!",
     "GameConfigBrokenTitle1": "Game Config Broken",
     "GameConfigBrokenSubtitle1": "The Launcher Scope's config is broken. Please choose your previous game path manually.",
     "GameConfigBrokenSubtitle2": "\r\nMake sure that the location of the game isn't the same as the path of your launcher's config.ini file, which is found here:\r\n\r\n{0}\r\n\r\n",

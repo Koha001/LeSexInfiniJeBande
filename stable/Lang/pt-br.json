@@ -51,7 +51,7 @@
     "Header1": "A tua Internet está",
     "Header2": "Desligada",
     "Footer1": "Verifica a tua conexão de Internet e clica na",
-    "Footer2": "Paimon",
+    "Footer2": "Shield-Potion",
     "Footer3": "para tentar novamente.",
     "ShowErrorBtn": "Mostrar mensagem de erro"
   },
@@ -303,6 +303,7 @@
     "AppFiles_RelocateDataFolderBtn": "Realocar pasta de dados",
     "AppFiles_ClearLogBtn": "Limpar ficheiros de registo",
     "AppFiles_ClearImgCachesBtn": "Limpar ficheiros de imagem",
+    "DisconnectBtn": "Sair da minha conta Cosmos",
 
     "ReportIssueBtn": "",
     "ContributePRBtn": "",
@@ -398,6 +399,8 @@
   },
 
   "_Dialogs": {
+    "NeedDisableItTitle": "Missing software to start Fortnite.",
+    "NeedDisableItle1": "Devido a um erro de instalação, o Fortnite não pode iniciar corretamente.\n1) Tente desativar seu antivírus\n2) Tente desativar sua VPN (se tiver uma)\n\nEm seguida, reinicie o Cosmos Launcher!",
     "FolderNotAllowedTitle": "Folder Not Allowed !",
     "FolderNotAllowedSubtitle": "Por favor crie uma subpasta chamada eg FortniteSeason ou...\n1) Clique direito\n2) Crie uma nova pasta e selecione.\n\nVocê não pode selecionar o seu disco rígido!" ,
     "NeedReInstallTitle": "Os arquivos dos jogos estão corrompidos.",
@@ -458,14 +461,16 @@
     "MigrationTitle": "Localizar pasta alvo",
     "MigrationSubtitle": "Antes de começar este processo, queres especificar a localização do jogo?",
 
-    "NeedInstallMediaPackTitle": "Pacote de funcionalidades dos media não encontrado!",
-    "NeedInstallMediaPackSubtitle1": "AVISO: A partir da atualização v5.8, o Honkai Impact 3 precisa que um \"Pacote de funcionalidades dos media\" esteja instalado no teu PC. Isto irá corrigir o erro \"Unable to load DLL 'cri_ware_unity'\" dentro do jogo.\r\n\r\n",
-    "NeedInstallMediaPackSubtitle2": "Precisas de reiniciar o teu PC depois de instalar o pacote de funcionalidades dos media. No entanto, poderás ignorar este aviso mas haverá uma chance be a chance de obter o erro \"Unable to load DLL 'cri_ware_unity'\" dentro do jogo.",
-    "InstallMediaPackCompleteTitle": "O pacote de funcionalidades dos media foi instalado!",
-    "InstallMediaPackCompleteSubtitle": "O pacote de funcionalidade dos media foi instalado no teu PC.\r\nPor favor reinicia-o para aplicar as mudanças!",
-    "InstallingMediaPackTitle": "A instalar pacote de funcionalidades dos media",
-    "InstallingMediaPackSubtitle": "Aguarda que o processo seja terminado...",
+     "NeedInstallMediaPackTitle": "VC_redistx64 não foi encontrado!",
+     "NeedInstallMediaPackSubtitle1": "WARNING: Cosmos precisa \"VC_redistx64\" para que a conexão do servidor funcione corretamente. Isso corrigirá \"Não é possível conectar-se aos servidores fortnite\" in-game.\r\n\r\n ",
+     "NeedInstallMediaPackSubtitle2": "Pode ser necessário reiniciar o PC após a instalação VC_redistx64.\n\nNote: vc_redistx64 não é necessário, você só precisa instalá-lo se encontrar esse erro.",
+     "InstallMediaPackCompleteTitle": "VC_redistx64 foi instalado!",
+     "InstallMediaPackCompleteSubtitle": "VC_redistx64 foi instalado no seu PC.\r\nPlease restart your PC to apply!",
+     "InstallingMediaPackTitle": "Instalando VC_redistx64",
+     "InstallingMediaPackSubtitle": "Esperando até que a instalação seja concluída...",
     "InstallingMediaPackSubtitleFinished": "Terminado",
+    "UpdatePakTitle": "Atualizando Fortnite",
+    "UpdatePakSubtitle": "Aguardando a conclusão da instalação (isso pode levar até 5 minutos, dependendo da sua conexão com a Internet)...",
 
     "GameConfigBrokenTitle1": "A configuração do jogo está corrompida",
     "GameConfigBrokenSubtitle1": "A configuração do Launcher está corrompida e precisas de escolher o caminho anterior do jogo manualmente.",
