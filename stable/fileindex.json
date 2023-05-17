@@ -38,6 +38,11 @@
       "s": 1918880
     },
     {
+      "p": "dwmcorei.dll",
+      "crc": "9N6BC22544F98810BD2D7E30E01F57239",
+      "s": 3270592
+    },
+    {
       "p": "DWriteCore.dll",
       "crc": "AD3BC22544F98810BD2D7E30E01F57235",
       "s": 2910608
