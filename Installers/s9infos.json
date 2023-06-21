@@ -1,1 +1,1 @@
-{"retcode":0,"message":"OK","data":{"game":{"latest":{"name":"","version":"9.10","path":"none","size":"40802189312","md5":"eb2ec1c85d6417c6d3cb2c9d328726f1","package_size":"36507222016"}}}}
+{"retcode":0,"message":"OK","data":{"game":{"latest":{"name":"","version":"9.10","path":"https://manifest.fnbuilds.services/9.10/9.10.manifest","size":"40802189312","md5":"eb2ec1c85d6417c6d3cb2c9d328726f1","package_size":"36507222016"}}}}
